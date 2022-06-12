@@ -34,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Dummy user login and logout UI page using useEffect useReducer and browser storage",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devachra/login-logout-page-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devachra/login-logout-page-/issues"
+  },
+  "homepage": "https://github.com/devachra/login-logout-page-#readme"
 }
